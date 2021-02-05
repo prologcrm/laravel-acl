@@ -1,5 +1,5 @@
 {
-    "name": "yajra/laravel-acl",
+    "name": "prologcrm/laravel-acl",
     "description": "Laravel ACL is a simple role, permission ACL for Laravel Framework.",
     "keywords": [
         "yajra",
